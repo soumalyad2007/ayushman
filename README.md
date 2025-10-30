@@ -34,9 +34,9 @@ Each color can only be minted **once**, ensuring that every hue on-chain is trul
 ## 🔗 Deployed Smart Contract
 
 > **Network:** Ethereum / Testnet (e.g., Sepolia or Mumbai)  
-> **Contract Address:** [XXX](#)  
+> **Contract Address:0xe2198a423f297f0c6928600eA7576E88d8254AF1 
 
-Replace `XXX` above with your deployed contract link once live.
+
 
 ---
 
@@ -46,4 +46,4 @@ Replace `XXX` above with your deployed contract link once live.
 
 
 
-The contract address is:0xe2198a423f297f0c6928600eA7576E88d8254AF1
+ 
